@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Author : Divya
+Author : Divya Sai
